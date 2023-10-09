@@ -14,7 +14,8 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">WELCOME TO CODINGRAD DEVOPS-JENKINS CI/CD-PROJECT-JULY-BATCH</a>
+		<a class="navbar-brand" href="#">WELCOME TO CODINGRAD DEVOPS-JENKINS CI/CD-PROJECT-JULY-BATCH  
+Good Morning All!!!</a>
 	</div>
   </div>
 </nav>
